@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>追番icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="点评2期-优化" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="空状态" transform="translate(-624.000000, -455.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="追番数_32" transform="translate(594.000000, 441.000000)">
+                <g id="Group-4" transform="translate(30.000000, 13.000000)">
+                    <path d="M12,23 C11.8307692,23 11.5769231,22.9166667 11.4076923,22.8333333 C10.6461538,22.25 4.13076923,17.25 2.77692308,15.3333333 C1.25384615,13.3333333 1,12.25 1,10.3333333 C1,6.33333333 3.96153846,3 7.68461538,3 C9.29230769,3 10.8153846,3.58333333 12,4.66666667 C13.1846154,3.58333333 14.7076923,3 16.3153846,3 C20.0384615,3 23,6.33333333 23,10.3333333 C23,12.1666667 22.7461538,13.25 21.2230769,15.3333333 C19.8692308,17.1666667 13.2692308,22.25 12.5923077,22.8333333 C12.4230769,22.9166667 12.1692308,23 12,23 Z" id="Shape"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
